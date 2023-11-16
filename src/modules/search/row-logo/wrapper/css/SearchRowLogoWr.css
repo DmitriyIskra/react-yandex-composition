@@ -1,0 +1,7 @@
+.SearchRowLogoWr {
+    display: flex;
+    margin-top: 5px;
+    gap: 15px;
+
+    align-items: flex-end;
+}

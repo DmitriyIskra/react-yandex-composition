@@ -1,0 +1,12 @@
+.wr-quotes {
+    display: flex;
+    margin-top: 10px;
+    gap: 9px;
+    
+    align-items: center;
+}
+
+.quotes-list {
+    display: flex;
+    gap: 9px;
+}

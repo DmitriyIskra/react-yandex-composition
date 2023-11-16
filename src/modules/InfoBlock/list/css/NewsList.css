@@ -1,0 +1,7 @@
+.info-list {
+    display: flex;
+    margin-top: 7px;
+    gap: 8px;
+
+    flex-direction: column;
+}

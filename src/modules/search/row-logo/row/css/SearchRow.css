@@ -1,0 +1,21 @@
+.serach-row-wrapper {
+    display: flex;
+    height: 40px;
+
+    flex-grow: 1;
+}
+
+.serach-row-input{
+    border: 2px solid rgb(255, 191, 0);
+
+    flex-grow: 1;
+}
+
+.serach-row-button {
+    width: 15%;
+
+    border: 2px solid rgb(255, 191, 0);
+    background-color: rgb(255, 191, 0);
+
+    cursor: pointer;
+}

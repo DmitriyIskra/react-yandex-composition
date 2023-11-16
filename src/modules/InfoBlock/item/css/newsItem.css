@@ -1,0 +1,30 @@
+.info-list-item {
+    display: flex;
+    gap: 10px;
+}
+
+.info-list-item-icon {
+    height: 15px;
+    width: 15px;
+    margin-left: -22px;
+}
+
+.info-list-item-icon img {
+    height: 100%;
+    width: 100%;
+
+    object-fit: contain;
+    object-position: center;
+}
+
+.info-list-item-link {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+}
+
+.info-list-item-channel {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 13px;
+
+    color: #AEA9A9;
+}

@@ -1,0 +1,12 @@
+.title-icon-onair {
+    height: 23px;
+    width: 57px;
+}
+
+.title-icon-onair img {
+    height: 100%;
+    width: 100%;
+
+    object-fit: contain;
+    object-position: center;
+}

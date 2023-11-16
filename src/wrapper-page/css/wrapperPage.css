@@ -1,0 +1,56 @@
+.wrapper-main {
+    display: flex;
+    width: 965px;
+    margin: 60px auto 0;
+
+    flex-direction: column;
+    align-items: flex-end;
+}
+
+.wrapper-line-1 {
+    display: flex;
+    width: 820px;
+
+    justify-content: space-between;
+}
+
+.wr-app-recommended {
+    display: flex;
+    padding-left: 10px;
+
+    align-items: flex-end;
+}
+
+.wrapper-search {
+    width: 100%;
+    margin-top: 15px;
+}
+
+.wrapper-banner {
+    width: 720px;
+    height: 90px;
+    margin-top: 25px;
+    padding-right: 113px;
+}
+
+.wpapper-info-list {
+    display: flex;
+    width: 820px;
+    margin-top: 40px;
+
+    justify-content: space-between;
+}
+
+.wpapper-info-item {
+    display: flex;
+    gap: 27px;
+
+    flex-direction: column;
+}
+
+/* .wr-map {
+    display: flex;
+    gap: 5px;
+
+    align-items: center;
+} */

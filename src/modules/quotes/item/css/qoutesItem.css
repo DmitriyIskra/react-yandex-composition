@@ -1,0 +1,26 @@
+.qoutes-item {
+    display: flex;
+    gap: 7px;
+
+    align-items: center;
+}
+
+.qoutes-item-position {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    font-weight: 700;
+}
+
+.qoutes-item-price {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    font-weight: 700;
+}
+
+.qoutes-item-change {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+    font-weight: 700;
+
+    color: rgb(174, 169, 169);
+}

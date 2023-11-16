@@ -1,0 +1,11 @@
+.wr-title-list-recomended {
+    display: flex;
+    gap: 10px;
+}
+
+.title-list-item-link {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+
+    color: rgb(22, 69, 240, 0.6);
+}
